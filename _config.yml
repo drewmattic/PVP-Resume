@@ -26,7 +26,12 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Drew Frierson, a creative & innovative Product and Project Manager, Software Engineer, and Blockchain Tech (DLT) advocate, with a reputation for evangelizing and scaling awesome enterprise cloud products. He specializes in a diverse set of technical & management skills, which includes, but not limited to: Business and Project Development, Technical Product Management, and Cloud Behavioral Engineering.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Valued and Experience in the Following:
+    - <mark>Product Management, experience defining and shipping enterprise cloud infrastructure platform products at scale</mark>
+    - <mark>Developing product strategy and managing strategic product roadmaps</mark>
+    - <mark>Distributed Ledger Technology</mark>
+    - <mark>Strategy/business development</mark>
+    - <mark>Effective communication and engaged listening</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -49,8 +54,12 @@ more_content: | # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
+# Dark Mode (true/false/never)
+darkmode: false
+
 # Build settings
-remote_theme: sproogen/resume-theme
+theme: modern-resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
