@@ -22,7 +22,7 @@ linkedin_username: friersondrew
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/drewmattic_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Drew Frierson, a creative & innovative Product and Project Manager, Software Engineer, and Blockchain Tech (DLT) advocate, with a reputation for evangelizing and scaling awesome enterprise cloud products. He specializes in a diverse set of technical & management skills, which includes, but not limited to: Business and Project Development, Technical Product Management, and Cloud Behavioral Engineering.
 
@@ -55,7 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Dark Mode (true/false/never)
-darkmode: false
+# darkmode: false
 
 # Build settings
 # theme: modern-resume-theme
