@@ -58,7 +58,7 @@ footer_show_references: true
 # darkmode: false
 
 # Build settings
-theme: drewmattic/modern-resume-theme
+remote_theme: drewmattic/modern-resume-theme
 # remote_theme: sproogen/resume-theme
 
 sass:
